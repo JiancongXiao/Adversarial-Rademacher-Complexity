@@ -1,5 +1,5 @@
-# DSR
-This repository is the official PyTorch implementation of paper: Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation (CVPR 2022).
+# Adversarial Rademacher Complexity
+This repository is the official PyTorch implementation of paper: Adversarial Rademacher Complexity of Deep Neural Network.
 ## Dependencies
 - Python >= 3.6
 - PyTorch >= 1.7.1
