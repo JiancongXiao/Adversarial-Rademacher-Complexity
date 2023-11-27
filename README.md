@@ -14,10 +14,10 @@ Deep neural networks (DNNs) are vulnerable to adversarial attacks. Ideally, a ro
 ## Main Result
 Our main result states an upper bound of adversarial Rademacher complexity.
 
-<img src="../image/main_result.jpg" width="500"/>
+<img src="./image/main_result.jpg" width="600"/>
 
 ## Experiments
-<img src="../image/norm.jpg" width="500"/>
+<img src="./image/norm.jpg" width="500"/>
 
 we show the experiments of standard and adversarial training VGG on CIFAR-10 and CIFAR-100. The y-axis is in logarithmic scale. The weight norms of adv-trained models are larger than that of std-trained models, i.e., $W_{adv}\geq W_{std}$. Ablation studies are provided in Appendix C. $W_{adv}\geq W_{std}$ can also be observed in these experiments. 
 ## Citation
