@@ -2,7 +2,7 @@
 
 This repository is the official PyTorch implementation of paper: Adversarial Rademacher Complexity of Deep Neural Network.
 
-**Jiancong Xiao, Yanbo Fan, Ruoyu Sun Zhi-Quan Luo**
+**Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo**
 
 **arXiv:** [https://arxiv.org/abs/2211.14966](https://arxiv.org/abs/2211.14966) 
 
