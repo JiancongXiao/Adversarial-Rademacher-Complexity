@@ -16,7 +16,7 @@ Our main result states an upper bound of adversarial Rademacher complexity.
 \paragraph{Main Result.} for depth-l, width-h fully-connected neural networks, assume that the weight matrices $W_1,W_2,\cdots,W_l$ in each of the $l$ layers have Frobenius norms bounded by $M_1,\cdots,M_l$, and all $n$ samples are bounded by $B$. Then, with high probability, 
 
 $$\text{ARC}
-\leq\mathcal{O}\bigg(\frac{(B+\epsilon)h\sqrt{l\log l}}{\sqrt{n}}{\displaystyle\prod_{j=1}^l M_j}\bigg).$$
+\leq\mathcal{O}\bigg(\frac{(B+\epsilon)h\sqrt{l\log l}\ {\displaystyle\prod_{j=1}^l M_j}}{\sqrt{n}}\bigg).$$
 
 
 ## Experiments
