@@ -21,7 +21,9 @@ $$\text{ARC}
 ## Experiments
 <img src="./image/norm.jpg" width="500"/>
 
-we show the experiments of standard and adversarial training VGG on CIFAR-10 and CIFAR-100. The y-axis is in logarithmic scale. The weight norms of adv-trained models are larger than that of std-trained models, i.e., $W_{adv}\geq W_{std}$. Ablation studies are provided in Appendix C. $W_{adv}\geq W_{std}$ can also be observed in these experiments. 
+we show the experiments of standard and adversarial training VGG on CIFAR-10 and CIFAR-100. The y-axis is in logarithmic scale. The weight norms of adv-trained models are larger than that of std-trained models, i.e., $W_{adv}\geq W_{std}$. Ablation studies are provided in Appendix C. $W_{adv}\geq W_{std}$ can also be observed in these experiments.
+
+The code of calculating the norms is adopted from [Neyshabur et al., 2017](https://github.com/bneyshabur/generalization-bounds).
 ## Citation
 ```
 @article{xiao2022adversarial,
