@@ -1,6 +1,6 @@
-# Adversarial Rademacher Complexity of Deep Neural Network
+# Adversarial Rademacher Complexity of Deep Neural Networks
 
-This repository is the official PyTorch implementation of paper: Adversarial Rademacher Complexity of Deep Neural Network.
+This repository is the official PyTorch implementation of paper: Adversarial Rademacher Complexity of Deep Neural Networks.
 
 **Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo**
 
